@@ -1,2 +1,3 @@
 # rhoscoes_public
-Config files for my GitHub profile.
+
+Muestra de proyectos que he realizado en C y en Python.

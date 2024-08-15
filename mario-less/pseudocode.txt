@@ -1,0 +1,10 @@
+Declarar las variable iniciales y solicitar el input al usuario
+
+Revisar que el input proporcionado por el usuario no causara errores de compilacion
+
+Estructurar un bucle while do en funcion de la altura de la piramide 1-10
+
+Ejecutar un for del while do para iterar sobre las filas de la piramide
+
+Ejecutar dos for dentro del bucle anterior: un for para imprimir los espacios en blanco que alinearan
+la piramide a la izquierda y otro for para imrimir el hastag
